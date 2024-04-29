@@ -1,0 +1,38 @@
+{
+  "name": "assessment-template",
+  "version": "1.1.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "latest",
+    "isomorphic-fetch": "3.0.0",
+    "jest-fetch-mock": "3.0.3",
+    "msw": "latest",
+    "next": "latest",
+    "postcss": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@emotion/react": "latest",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@testing-library/user-event": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/testing-library__jest-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "jest": "latest",
+    "jest-environment-jsdom": "latest",
+    "jszip": "^3.10.1",
+    "typescript": "latest"
+  }
+}
